@@ -1,0 +1,4 @@
+/node_modules
+./cscode
+package-lock.json
+.DS_Store
